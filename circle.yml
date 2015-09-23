@@ -1,3 +1,6 @@
+test:
+  post:
+    - echo "Hey"
 deployment:
   prod:
     branch: master
